@@ -1,0 +1,10 @@
+{
+    "name": "javascript-weight-converter",
+    "version": "1.0",
+    "description": "A weight converter application",
+    "scripts": {
+        "test": "echo 'tests...'"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
